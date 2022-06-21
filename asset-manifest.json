@@ -1,0 +1,35 @@
+{
+  "files": {
+    "app.js": "/Player-Music/static/js/app.7d251473.chunk.js",
+    "app.js.map": "/Player-Music/static/js/app.7d251473.chunk.js.map",
+    "runtime~app.js": "/Player-Music/static/js/runtime~app.5a688ba9.js",
+    "runtime~app.js.map": "/Player-Music/static/js/runtime~app.5a688ba9.js.map",
+    "static/js/2.79e00dcc.chunk.js": "/Player-Music/static/js/2.79e00dcc.chunk.js",
+    "static/js/2.79e00dcc.chunk.js.map": "/Player-Music/static/js/2.79e00dcc.chunk.js.map",
+    "fonts/AntDesign.ttf": "/Player-Music/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/Player-Music/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/Player-Music/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/Player-Music/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/Player-Music/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/Player-Music/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/Player-Music/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/Player-Music/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/Player-Music/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/Player-Music/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/Player-Music/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/Player-Music/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/Player-Music/favicon-16.png",
+    "favicon-32.png": "/Player-Music/favicon-32.png",
+    "favicon.ico": "/Player-Music/favicon.ico",
+    "index.html": "/Player-Music/index.html",
+    "manifest.json": "/Player-Music/manifest.json",
+    "serve.json": "/Player-Music/serve.json",
+    "static/js/2.79e00dcc.chunk.js.LICENSE.txt": "/Player-Music/static/js/2.79e00dcc.chunk.js.LICENSE.txt",
+    "static/media/sample4.mp3": "/Player-Music/static/media/sample4.cceecdd6.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.5a688ba9.js",
+    "static/js/2.79e00dcc.chunk.js",
+    "static/js/app.7d251473.chunk.js"
+  ]
+}
